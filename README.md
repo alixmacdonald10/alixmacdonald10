@@ -1,4 +1,4 @@
-## 🚀 About Me
+## :crab: About Me
 
 I’m a **Rustacean by day, Kubernetes wrangler by night**.
 I write memory-safe code like it’s my job (because it is).
