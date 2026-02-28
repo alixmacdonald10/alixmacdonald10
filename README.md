@@ -8,13 +8,16 @@ If it compiles, it’s probably correct——unless I’m deploying at 3 AM, in 
 **Cloud Native? More like Cloud Native with extra coffee.**
 I’ve spent more time in Azure than most people spend in traffic jams, and I’ve dabbled in AWS enough to know where the bodies are buried.
 
-**Python?** Yeah, I can write it. Do I like it? Let’s just say I prefer my languages with a side of type safety and zero segfaults.
+**Python?** Yeah, I can write it. Do I like it? Let’s just say I miss the Rust compiler.
+
+I have a strong proclivity towards **postgres**. 
 
 **TL;DR:**
-- Rust is my love language.
-- Kubernetes is my battleground.
-- Azure is my playground.
-- AWS is… complicated.
-- Python is… tolerated.
-
+- Rust is language of choice.
+- Kubernetes is my go to.
+- Azure is the best of a bad bunch?
+- AWS is… interesting...
+- Python is tolerated.
+- Postgres is preffered.
+- IAC is a bit of me.
 ---
