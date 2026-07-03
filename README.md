@@ -12,4 +12,4 @@ I'm big on *security*. Simple systems are easier to reason about, and things you
 
 I love *Rust* and have used it professionally since *2023*. I also have a soft spot for *Postgres* and *Kubernetes*, and I find *system design* genuinely rewarding. I'm perfectly good with *Python* too, I just miss Rust's compiler.
 
-Have a look through my GitHub and blog posts on ![my website](amackerel.dev) to see more of what I'm all about.
+Have a look through my GitHub and blog posts on [my website](https://amackerel.dev) to see more of what I'm all about.
