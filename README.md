@@ -1,6 +1,6 @@
 ## I'm Alix
 
-A *senior software engineer* specialising in backend and infrastructure, and an ex-Chartered Mechanical Engineer who left it all behind to embark on a software career.
+A *senior software engineer* (not actually a mackerel) specialising in backend and infrastructure, and an ex-Chartered Mechanical Engineer who left it all behind to embark on a software career.
 
 Throughout my career I've picked up two Master's degrees, one in *Mechanical Engineering* and the other in *Astronautics & Space Engineering* (pretty cool I know).
 
