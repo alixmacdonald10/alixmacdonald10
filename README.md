@@ -1,5 +1,7 @@
 ## I'm Alix
 
-A *senior software engineer* (not actually a mackerel) specialising in backend and infrastructure, and an ex-Chartered Mechanical Engineer who left it all behind to embark on a software career.
+A *senior software engineer* (not a mackerel) specialising in backend and infrastructure, and an ex-Chartered Mechanical Engineer who decided to cast his a little wider.
 
-Have a look through my GitHub and my website [my website](https://amackerel.dev) to see more of what I'm all about.
+Have a little trawl through my GitHub and my website, [my website](https://amackerel.dev), to see what I'm all aboat. Hopefully something there will catch your eye.
+
+And yes, I love bad puns.
